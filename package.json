@@ -1,0 +1,19 @@
+{
+  "name": "our-wedding-website",
+  "version": "0.1.1",
+  "description": "Greg and Nerissa's wedding website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/grevory/our-wedding-website"
+  },
+  "license": "MIT"
+}
